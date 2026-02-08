@@ -12,3 +12,4 @@ Task: Generate 1000 records of synthetic house data for HSR Layout, Bangalore to
 - [x] Train Model & Evaluate Metrics
 - [x] Deliver Final Cleaned CSV & Walkthrough
 - [x] Create Comprehensive Interactive Notebook
+- [x] Push Project to GitHub Remote Repository
